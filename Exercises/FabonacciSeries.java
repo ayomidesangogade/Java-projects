@@ -1,6 +1,4 @@
-// SANGOGADE AYOMIDE
-// 223322
-// level 200
+package Exercises;
 import java.util.Scanner;
 
 public class FabonacciSeries{
