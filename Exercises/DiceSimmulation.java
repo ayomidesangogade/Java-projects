@@ -1,6 +1,4 @@
-// Sangogade Ayomide Ephraim
-// 223322
-// Level 200
+package Exercises;
 
 public class DiceSimmulation {
     public static double dice() {
