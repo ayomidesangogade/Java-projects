@@ -1,6 +1,4 @@
-// SANGOGADE AYOMIDE EPHRAIM
-// 223322
-// Level 200
+package Exercises;
 
 import java.util.Scanner;
 
