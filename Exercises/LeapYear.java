@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 public class LeapYear {
     Scanner input = new Scanner(System.in);
@@ -8,3 +10,4 @@ public class LeapYear {
     boolean isLeapYear = (year%4 == 0 && year % 100 != 0)||(year%400 == 0);
     System.out.println(year+" is a leap year? "+ isLeapYear);
 }
+
