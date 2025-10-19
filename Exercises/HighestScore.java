@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 public class HighestScore {
     public static void main (String[] args) {
@@ -29,3 +31,4 @@ public class HighestScore {
         input.close();
     }
 }
+
